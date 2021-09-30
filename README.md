@@ -4,7 +4,5 @@ In this Project, we want to get raw data from the Meteorological Service of Cana
 **climate_station_list.csv has all the weather stations in entire Canada.**
 
 **Transformer.py do all the ETL tasks**
-<<<<<<< HEAD
 
 **How is the weather.pbix includes all the datasets, report, and dashboard in Power BI**
-=======
