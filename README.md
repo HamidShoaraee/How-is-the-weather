@@ -1,4 +1,4 @@
-# How is the weather
+# How Is The Weather
 In this Project, we want to get raw data from the Meteorological Service of Canada (MSC) and transform this data for creating interactive reports and a dashboard in Power BI. The goal of this project is turnning raw weather data into interactive visualization with help of Microsoft Power BI and Python visualization libraries like Matplotlib and Pandas.
 
 **climate_station_list.csv has all the weather stations in entire Canada.**
